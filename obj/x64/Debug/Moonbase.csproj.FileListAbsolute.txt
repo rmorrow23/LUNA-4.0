@@ -1,0 +1,10 @@
+C:\Users\randa\source\repos\Moonbase\bin\x64\Debug\Moonbase.exe.config
+C:\Users\randa\source\repos\Moonbase\bin\x64\Debug\Moonbase.exe
+C:\Users\randa\source\repos\Moonbase\bin\x64\Debug\Moonbase.pdb
+C:\Users\randa\source\repos\Moonbase\obj\x64\Debug\Moonbase.csproj.AssemblyReference.cache
+C:\Users\randa\source\repos\Moonbase\obj\x64\Debug\Moonbase.FormMain.resources
+C:\Users\randa\source\repos\Moonbase\obj\x64\Debug\Moonbase.Properties.Resources.resources
+C:\Users\randa\source\repos\Moonbase\obj\x64\Debug\Moonbase.csproj.GenerateResource.cache
+C:\Users\randa\source\repos\Moonbase\obj\x64\Debug\Moonbase.csproj.CoreCompileInputs.cache
+C:\Users\randa\source\repos\Moonbase\obj\x64\Debug\Moonbase.exe
+C:\Users\randa\source\repos\Moonbase\obj\x64\Debug\Moonbase.pdb
